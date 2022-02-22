@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of Thomas Shadwell, Esq. late Poet-Laureat, and Historiographer-Royal, who was interred at Chelsea, November 24, 1692 by Nicholas Brady ...</title>
+            <author>Brady, Nicholas, 1659-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29157</idno>
+            <idno type="STC">Wing B4176</idno>
+            <idno type="STC">ESTC R19587</idno>
+            <idno type="EEBO-CITATION">12115611</idno>
+            <idno type="OCLC">ocm 12115611</idno>
+            <idno type="VID">54285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 759:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of Thomas Shadwell, Esq. late Poet-Laureat, and Historiographer-Royal, who was interred at Chelsea, November 24, 1692 by Nicholas Brady ...</title>
+                  <author>Brady, Nicholas, 1659-1726.</author>
+               </titleStmt>
+               <extent>26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Knapton ...,</publisher>
+                  <pubPlace>Londoon [sic] :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published at the earnest request of the friends of the deceased."</note>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shadwell, Thomas, 1642?-1692.</term>
+               <term>Bible. --  N.T. --  Revelation XIV, 13 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:54285:1"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Novemb.</hi> 28. 1692.</date>
+               </dateline>
+               <signed>Carolus Alſton.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:54285:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED At the Funeral OF THOMAS SHADWELL, Eſq; LATE Poet-Laureat, and Hiſtoriographer-Roya<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who was Interred at <hi>Chelſea, Novem<g ref="char:EOLhyphen"/>ber</hi> 24. 1692.</p>
+            <p>By <hi>Nicholas Brady,</hi> Miniſter of St. <hi>Catharine Cree-Church,</hi> and Chaplain to his Grace the Duke of <hi>Ormond.</hi>
+            </p>
+            <p>Publiſhed at the Earneſt Requeſt of the Friends of the Deceaſed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Knapton,</hi> at the <hi>Crown</hi> in St. <hi>Paul'</hi> Church-Yard. MDCXCIII.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:54285:2" rendition="simple:additions"/>
+            <p>Mr. <hi>BRADY</hi>'s SERMON PREACHED <hi>At the Funeral</hi> OF <hi>THOMAS SHADWELL,</hi> Eſquire.</p>
+            <pb facs="tcp:54285:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:54285:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:54285:4"/>
+            <pb n="5" facs="tcp:54285:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REV. XIV. and part of Verſe 13.</hi>
+                  </bibl>
+                  <p>Bleſſed are the dead, which die in the Lord.</p>
+                  <p>
+                     <hi>The whole Verſe runs thus:</hi>
+                  </p>
+                  <p>And I heard a voice from Heaven, ſaying unto me, Write, Bleſſed are the dead which die in the Lord, from henceforth, yea, ſaith the Spirit, that they may reſt from their labour, and their Works do follow them.</p>
+               </q>
+            </epigraph>
+            <p>IS Death then a Bleſſing? Is that King of Terrours an Object of Deſire? Is the common Averſion of human Na<g ref="char:EOLhyphen"/>ture a thing fit to be courted and em<g ref="char:EOLhyphen"/>braced? Can the firſt Curſe of God upon Sin and Diſobedience become a juſt Matter of Intereſt and Advantage? Is Bleſſedneſs
+<pb n="6" facs="tcp:54285:5"/>the Companion of Rottenneſs and Cor<g ref="char:EOLhyphen"/>ruption? And does it dwell ſo meanly and reti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edly? How much miſtaken then are the Generality of Mankind, who ſeek for it in the noiſy Tumults of a buſie Court, a<g ref="char:EOLhyphen"/>mongſt a glittering Collection of Gold and Jewels, in the divertive Society of the Witty, and the Beautiful; when it is only to be found within the ſilent Chambers of the Grave, amongſt a ruinous Heap of Duſt and Aſhes, with mouldring Bones, and putrifying Carcaſes. This is a Paradox ſo ſtrange, and ſo ſurprizing, ſo hard to Fleſh and Blood, ſo contrary to the Notions which are gene<g ref="char:EOLhyphen"/>rally entertained, and ſo ſeemingly contra<g ref="char:EOLhyphen"/>dictory in its ſelf; that it needed no leſs than a Divine Authority to uſher it in, and a Ce<g ref="char:EOLhyphen"/>leſtial Herald to Proclaim and Recommend it, <hi>And I heard a voice from Heaven, ſaying unto me, Write, Bleſſed are the dead.</hi>
+            </p>
+            <p>But is there no Diſtinction in the Grave? no ſort of Difference between the Godly and the Wicked? Is Bleſſedneſs the common and indifferent Lot of both? In vain then do we wiſh or endeavour to die the Death of the Righteous, and to have our latter end like his: Death will moſt certainly arrive,
+<pb n="7" facs="tcp:54285:5"/>and if this Suppoſition be true, Bleſſedneſs will as certainly attend it; and the fooliſh Epicure may be juſtified in his Saying, <hi>Let us eat and drink, for to morrow we die.</hi> This is an Opinion too looſe to be admitted, and draws after it a Train of Conſequences too fatal to be allowed; and therefore we find a neceſſary Condition ſpecified and annexed, by which the Dead muſt be qualified for Bleſſedneſs; <hi>Bleſſed are the dead which die in the Lord.</hi>
+            </p>
+            <p>To <hi>die in the Lord,</hi> is to die in his Fear, and in his Favour; to die with the Teſtimo<g ref="char:EOLhyphen"/>ny of a good Conſcience, in relation to ones ſelf, and with a well grounded Confidence in reſpect of God; to have the happy Enter<g ref="char:EOLhyphen"/>tainment, when he caſts his Eyes backwards, of a well-ſpent Life; and the comfortable Proſpect, when he looks forwards, of a Bleſ<g ref="char:EOLhyphen"/>ſed Immortality; to have thoſe Words con<g ref="char:EOLhyphen"/>tinually ringing in his dying Ears, of <hi>Well done, good and faithful ſervant,</hi> as a due Cha<g ref="char:EOLhyphen"/>racter of his Life paſt, <hi>and enter thou into the joy of thy Lord,</hi> as a happy Draught of that which is to come; to fall aſleep, as it were, in the Arms of his Redeemer; and to be lulled to his long Repoſe in the Embraces of
+<pb n="8" facs="tcp:54285:6"/>his Saviour; to lay down his Life with a cer<g ref="char:EOLhyphen"/>tain Aſſurance of taking it up again, as knowing that it is hid with Chriſt in God; to go out of this World with a firm Perſua<g ref="char:EOLhyphen"/>ſion of entring into a better; to have a lively Faith within a dying Body, and a Hope that flouriſhes under the Decays of Na<g ref="char:EOLhyphen"/>ture; to have an intire Reſignation to the Divine Will, and to put his Death as well as Life into the Hands of God. This is the full and perſect meaning of that ſhort, but com<g ref="char:EOLhyphen"/>prehenſive Expreſſion, <hi>To die in the Lord:</hi> and ſince we find Bleſſedneſs annexed to that Condition, it ſhould forcibly engage us to endeavour its Attainment. <hi>Bleſted,</hi> &amp;c.</p>
+            <p>In my following Diſcourſe therefore upon this Solemn Occaſion, I ſhall inſiſt upon theſe two Particulars.</p>
+            <p>Firſt, I ſhall lay down the proper Method which we ought to make uſe of, in order to attain to the happy Condition, <hi>of dying in the Lord.</hi>
+            </p>
+            <p>Secondly, I ſhall prove the thing affirm<g ref="char:EOLhyphen"/>ed in my Text, that <hi>Bleſſed are the dead which die in the Lord.</hi>
+            </p>
+            <p>Firſt then, I ſhall lay down the proper Me<g ref="char:EOLhyphen"/>thod which we ought to make uſe of, in
+<pb n="9" facs="tcp:54285:6"/>order to attain to the happy Condition, of <hi>dying in the Lord.</hi>
+            </p>
+            <p n="1">1. To <hi>die in the Lord,</hi> is a thing ſo value<g ref="char:EOLhyphen"/>able in it ſelf, and attended with Circum<g ref="char:EOLhyphen"/>ſtances ſo precious and conſiderable, that we cannot ſuppoſe its Purchaſe to be eaſie; but muſt allow the Price of ſuch a Bleſſing to bear ſome Proportion to the Greatneſs of its Advantages. We cannot therefore pro<g ref="char:EOLhyphen"/>miſe our ſelves with any manner of ſecurity, that it ſhall be the Reward of a few ſick Prayers, or a Death-bed Repentance; they who would be certain of <hi>dying in the Lord,</hi> muſt ſtedfaſtly reſolve to live in him; and that whole Life is happily laid out, by which we are aſſured of ſo bleſſed a Concluſion: Some perhaps may flatter themſelves, that a happy End is not inconſiſtent with a wicked Life; that the Mercy of God will work out their Salvation, even in their own deſpight; that they may enjoy the World here, and Heaven hereafter; that they may live to the Fleſh, and yet die in the Lord: But let us not thus deceive our own Souls, God is not thus mocked; his Mercy is truly infinite, but ſo are alſo his Juſtice and his Truth; nor will he ſo far be ſwayed by that, tho his beloved
+<pb n="10" facs="tcp:54285:7"/>his darling Attribute, as to forfeit or forego the other two; there muſt be ſome ſatiſ<g ref="char:EOLhyphen"/>faction made to theſe, before we can enjoy the Refreſhings of the former; otherwiſe, this God of Mercy will laugh at our Cala<g ref="char:EOLhyphen"/>mities, and mock when our Fear comes. He, who totally applies himſelf to the Enjoy<g ref="char:EOLhyphen"/>ments of this Life, and manages his time as if there were no other, can never expect any Comfort or Satisfaction, when he is entring upon a State that he ſo little thought of: he is tied and wedded to the things of this World, and it is a tearing him from all that he values or eſteems, to bring him to that Paſſage which leads into another. To ſuch a Man Death comes arrayed with all his Pomp of Terrour; if he looks upon that World which he is about to take leave of, he finds that he is parting with his deareſt Companion, the delight of all his Senſes, and the Comfort of his Soul: if he looks upon that World which he is about to go in<g ref="char:EOLhyphen"/>to, he has made no Acquaintances there, ſecured no Intereſts, engaged no Friendſhips, to render his future Abode delightful and agreeable: if he is ſo ſtupid and inconſide<g ref="char:EOLhyphen"/>rate, as to have no proſpect of the Miſery
+<pb n="11" facs="tcp:54285:7"/>that attends him, yet at beſt, he ſees nothing before him but Darkneſs and Confuſion, <hi>a Land</hi> of Silence <hi>where all things are forgot<g ref="char:EOLhyphen"/>ten.</hi> It is therefore abſolutely neceſſary, that we live here, as Probationers for Heaven and Happineſs, if we expect hereafter to be par<g ref="char:EOLhyphen"/>takers of that Bleſſedneſs, which is the Por<g ref="char:EOLhyphen"/>tion of thoſe <hi>dead who die in the Lord.</hi> You have been told already, that to <hi>die in the Lord,</hi> is to die in his Fear, and in his Favour; But how ſhall he die in the Fear of the Lord, whoſe Days have been conſumed in the Con<g ref="char:EOLhyphen"/>tempt of his Commandments? Or how ſhall he die in the Favour of the Lord, whoſe Life has been full of rebellious Provocations? He may die indeed under the Terrours of the Lord, but not in his Fear; or perhaps flatter'd by his own deceitful Heart, but not favour'd by the Almighty. In deed could we all <hi>know our End, and the Number of our Days;</hi> and were every one of us <hi>certi<g ref="char:EOLhyphen"/>fied how long he has to live,</hi> it might ſeem tolerably ſafe, to devote ſome part of our Life to Sin and Folly, reſerving at the ſame time a conſiderable Portion, for the After-Exerciſes of Piety and Devotion; we might then for ſome years indulge our ſinful Ap<g ref="char:EOLhyphen"/>petites,
+<pb n="12" facs="tcp:54285:8"/>and ſet by ſo many more for the working out our Salvation: But alas! we know not how ſoon Death may ſeize upon us; his Arreſt may be ſudden, ſurpri<g ref="char:EOLhyphen"/>zing, and unlooked for; we ought therefore to live in the conſtant expectation, and be converſant perpetually in our Preparations for it: <hi>Watch ye therefore,</hi> ſays our Saviour, <hi>for ye know neither the day nor the hour, wherein the Son of Man cometh:</hi> And what will be<g ref="char:EOLhyphen"/>come of us, if our Lord, when he comes, ſhall find us ſleeping? It will then be in vain to ask, when he will be no more entreated; in vain to ſeek him, when be will not be found; in vain to knock, when the Gate is ſhut againſt us: then if we cry never ſo much, <hi>Lord, Lord, open unto us;</hi> we ſhall receive no other Anſwer but a poſitive Denial: <hi>Verily, I ſay unto you, I know you not, Depart from me ye workers of iniquity.</hi> This Life is the Day wherein we muſt work; <hi>the Night</hi> of Death is drawing on apace, <hi>wherein no Man can work;</hi> and beſides the great Danger of being ſurprized by that, how madly does he pro<g ref="char:EOLhyphen"/>ceed, that ſquanders away the Morning and the Noon of Life, and ſets not about his Days work until the Evening! How com<g ref="char:EOLhyphen"/>fortleſs
+<pb n="13" facs="tcp:54285:8"/>every night muſt that Man lie down to his neceſſary Repoſe, that knows not, but he may wake in another World, and yet finds himſelf to be unprepared for it? Can any Man be ſecure of <hi>dying in the Lord,</hi> that takes no care to go to Bed in his Favour, and yet cannot tell but he may die before he riſes? He that would make ſure of ſo bleſſed a Con<g ref="char:EOLhyphen"/>dition, ſhould live every Day, as if it were his laſt; be always diſintangled from the Cares of this World, as if he were then upon taking his leave of it; have his thoughts ſtill fixed upon a Bleſſed Eternity, as if he were juſt launching out into it: for <hi>our Lord may come in a day when we look not for him, and in an hour that we are not aware of;</hi> and therefore, the only ſure Way, not to be ta<g ref="char:EOLhyphen"/>ken unprovided, is to be every hour prepa<g ref="char:EOLhyphen"/>red, as if that were it. It is an eaſie thing to ſay, I will repent to morrow, I will conſider my ways, and fit my ſelf for my end; but are we ſure that to-morrow is our own? And may not our Caſe be like the rich Man's in the Goſpel, whoſe Soul was required of him that very night? The Diſappointment in this Caſe is ſo very dreadful, being not on<g ref="char:EOLhyphen"/>ly the loſs of a few hours which we propoſed
+<pb n="14" facs="tcp:54285:9"/>to our ſelves here, but of a joyful Eternity in the World which is to come; that it will highly concern every reaſonable Man, timely to provide againſt ſo diſmal a Misfortune: and this can be done no better a way, than by a ſtedfaſt Faith, and an uniform Obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p n="1">1. Then, a ſtedfaſt Faith is an excellent Preparative, to qualifie us at all times, for <hi>dying in the Lord.</hi>
+            </p>
+            <p>
+               <hi>Faith,</hi> ſays the Apoſtle, <hi>is the ſubſtance of things hoped for, the evidence of things not ſeen:</hi> by this we depend upon the Promiſes of God, and ſettle to our ſelves a firm aſſu<g ref="char:EOLhyphen"/>rance of them; this diſcloſes to us the Se<g ref="char:EOLhyphen"/>crets of the inviſible World, and makes us fa<g ref="char:EOLhyphen"/>miliar with that Land of Spirits; it ſets Hea<g ref="char:EOLhyphen"/>ven and Happineſs before our Eyes; <hi>it lifts up the Heads of thoſe eternal Gates, and ſets wide open the everlaſting Doors;</hi> it gives us a Reliſh and Antepaſt of that Glory which ſhall one day be revealed, and makes us <hi>taſte and ſee how good the Lord is:</hi> By this, <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> ſaw the Glory of God, and <hi>Jeſus</hi> ſtand<g ref="char:EOLhyphen"/>ing on the Right Hand of the Almighty; by this, St. <hi>Paul</hi> was rap'd into the third Hea<g ref="char:EOLhyphen"/>ven, and heard and ſaw ſuch things as were
+<pb n="15" facs="tcp:54285:9"/>unſpeakable; through this he deſired to be diſſolved, and to be with Chriſt; this made all the Sufferings of Martyrs and Confeſſors, eaſie to them and delightful; this ſupports the Faithful in the Agonies of Death, and makes up in a very great meaſure, the Bleſſedneſs of thoſe <hi>dead which die in the Lord.</hi> But</p>
+            <p n="2">2. An uniform Obedience is an excellent Preparative, to qualifie us at all times for <hi>dy<g ref="char:EOLhyphen"/>ing in the Lord.</hi>
+            </p>
+            <p>This ſecures to us thoſe precious Advan<g ref="char:EOLhyphen"/>tages, which Faith but reveals; and entitles us to the Treaſures, which that only diſclo<g ref="char:EOLhyphen"/>ſes: this fits us for the Enjoyment of a Bleſſed Immortality, and applies to us the Promiſes of eternal Felicity: that indeed ſhews us what Heaven is, but this aſſures us, that it is ours; that gives us a View of everlaſting Happi<g ref="char:EOLhyphen"/>neſs, this puts us actually in poſſeſſion of it. For Chriſtianity, my Brethren, is not a bare Speculation; it is defined to be a Practical Science; and the main intent of it is to regu<g ref="char:EOLhyphen"/>late our Actions. It is true indeed, in order to that it muſt inform our Underſtandings; but if it operates upon us no farther, it only enhances the Heinouſneſs of our Tranſgreſ<g ref="char:EOLhyphen"/>ſions, by making every offence become a ſin
+<pb n="16" facs="tcp:54285:10"/>againſt Knowledge. And therefore we find the Holy Apoſtle, when he compares toge<g ref="char:EOLhyphen"/>ther the three great Chriſtian Graces, giving the Preference to that which is Practical, to the prejudice of the others which are chiefly Contemplative. <hi>Now remain</hi> (ſays he) <hi>Faith, Hope, Charity, theſe three: but the greateſt of theſe is Charity.</hi> He then, who is always con<g ref="char:EOLhyphen"/>verſant in the Duties of his Profeſſion, al<g ref="char:EOLhyphen"/>ways employed in the Exerciſes of Devotion, and keeps <hi>a Conſcience void of offence towards God, and towards man:</hi> he is the Man who, let Death come when it will, is never found dejected or unprovided: <hi>Bleſſed is that wiſe and faithful ſervant, whom his Lord, when he cometh, ſhall find ſo doing:</hi> he takes the ſureſt and moſt infallible way, to ſecure to himſelf, whenever he ſhall die, <hi>the Bleſſedneſs of thoſe dead which die in the Lord.</hi>
+            </p>
+            <p n="2">2. And this leads me to the Conſideration of my ſecond General; namely, to prove the thing affirmed in my Text, that <hi>Bleſſed are the dead which die in the Lord.</hi>
+            </p>
+            <p>Death is to be conſidered under a double Notion; either as it is a Paſſage out of this World, or as it is an Entrance into another; and under each of them, it appears to the
+<pb n="17" facs="tcp:54285:10"/>unwary Examiner, a matter of Terrour and of Trouble. To leave all the engaging En<g ref="char:EOLhyphen"/>tertainments, all the agreeable Societies and Diverſions, to which we have been accuſto<g ref="char:EOLhyphen"/>med and familiar from our Cradles; and to paſs into a place that we never yet fre<g ref="char:EOLhyphen"/>quented, to go into a Land that we never before travelled, and to enter upon a con<g ref="char:EOLhyphen"/>dition that we never yet experienced, theſe Reflections, I ſay, to ſuch as only dwell upon ſuperficial Appearances, and never pry into the Bottom of Affairs, are ſtrangely frightful and diſcouraging: but if we will give our ſelves the uſeful Labour of conſidering Mat<g ref="char:EOLhyphen"/>ters more ſtrictly and deliberately, we ſhall find, that let us take it which way we will, to ſuch as <hi>die in the Lord, death is a Bleſſing.</hi>
+            </p>
+            <p>Firſt, Then, let us conſider Death as a Paſ<g ref="char:EOLhyphen"/>ſage out of this World, and in relation to that Notion of Death we ſhall find, <hi>That bleſſed are the dead which die in the Lord.</hi>
+            </p>
+            <p>A conſiderable Inſtance of their Bleſſed<g ref="char:EOLhyphen"/>neſs, or that wherein (as to this particular) it eſpecially conſiſts, is aſſigned by the Holy Ghoſt, in the Words immediately conſequent to my Text; <hi>And I heard a voice from Hea<g ref="char:EOLhyphen"/>ven, ſaying unto me, Write, Bleſſed are the dead
+<pb n="18" facs="tcp:54285:11"/>which die in the Lord, from henceforth: Yea, ſaith the Spirit, that they may reſt from their labours.</hi> For the Life of a good Chriſtian is a Life of Labour; he is born to it, as the Sparks fly upwards; he is every where beſet with Difficulties; and with many Enemies muſt he encounter; the World hates him, becauſe he is not of it; God often tries him with Temptations and Afflictions, and his Conſcience is always keeping him to his Task of <hi>working out his ſalvation with fear and trem<g ref="char:EOLhyphen"/>bling;</hi> he is obliged to be conſtantly upon the Watch; to bear the Shocks of Satan, and the Contradictions of Sinners; ſo that <hi>if in this life only he had hopes, he were of all men the moſt miſerable.</hi> But how joyfully does he welcome the Approaches of his End, by which he ſhall be freed from the forementioned Troubles! Death appears to him as pleaſing and deſirable, as Health, after a dangerous and troubleſome Diſtem<g ref="char:EOLhyphen"/>per, as Reſt after a toilſome and laborious Journey, as Sleep after a tedious and uneaſie Watching, as the Port after a ſtormy and tempeſtuous Voyage. He had no ſuch inti<g ref="char:EOLhyphen"/>mate Engagements with the World, as may
+<pb n="19" facs="tcp:54285:11"/>render it unſupportable to part with it; he has nothing of Earth to hang heavy upon his Soul, to clog its flight, or weigh it down<g ref="char:EOLhyphen"/>wards to this dull Centre of Corruption; it is long ſince that the World and he took leave of one another; he has a long time been dead to that, having <hi>mortified his Mem<g ref="char:EOLhyphen"/>bers, which were upon the Earth;</hi> he can have no Regret for parting with that, of which he never entertain'd any tolerable good Opinion; all whoſe Advantages he has found to be but <hi>Vanity,</hi> and all its Enter<g ref="char:EOLhyphen"/>tainments <hi>Vexation of Spirit:</hi> Nay further, he reflects upon what he is to leave with Comfort and Satisfaction; he parts with no<g ref="char:EOLhyphen"/>thing but an inveterate Enemy, who has all his life long been endeavouring to deſtroy him; has ſtill put ſtumbling Blocks in his Way to Heaven and Happineſs, and been miſleading him from the Paths of everlaſting Felicity. Thoſe few good Men which he leaves behind, and to whom his Soul is chiefly linked on this ſide Heaven, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hopes to ſee again with ineffable Delight; and is but going as a Harbinger to prepare then Way: No Ties of Nature or of Blood can biaſs him, ſince they are all ſwallowed up in
+<pb n="20" facs="tcp:54285:12"/>the Love of his Creator, and in the near ex<g ref="char:EOLhyphen"/>pectation of the Fruition of him. Thus the World and the Fleſh hang looſe about him; his active Soul is juſt upon the Wing; and he parts from hence as an induſtrious Tra<g ref="char:EOLhyphen"/>veller from a ſorry Inn, where the ill Ac<g ref="char:EOLhyphen"/>commodation made his Stay uneaſie, and the opportunity of leaving it, welcom and agreeable. <hi>Bleſſed therefore are the dead which die in the Lord,</hi> if we look upon Death as a Paſſage out of this World; for <hi>they reſt from their labors.</hi>
+            </p>
+            <p>But ſince the Word which is here render'd to reſt, does more properly ſignifie to eaſe or to refreſh; and conſequently this Reſting does not mean a bare and unactive Ceſſation from Labour, but a State of per<g ref="char:EOLhyphen"/>fect Complacency and Satisfaction; I there<g ref="char:EOLhyphen"/>fore proceed to conſider Death.</p>
+            <p>Secondly, As the entrance into another World, and in relation to that Notion of Death, we ſhall find, that <hi>Bleſſed are the dead which die in the Lord.</hi>
+            </p>
+            <p>A conſiderable Inſtance of their Bleſſed<g ref="char:EOLhyphen"/>neſs, or that wherein (as to this particular) it eſpecially conſiſts, is given us by the ſame Holy Spirit, in the laſt Words of this Verſe,
+<pb n="21" facs="tcp:54285:12"/>whereof my Text is part: <hi>And I heard a voice from Heaven, ſaying unto me, Write, Bleſſed are the dead which die in the Lord, from henceforth, yea, ſaith the Spirit, that they may reſt from their labours, and their works do fol<g ref="char:EOLhyphen"/>low them.</hi>
+            </p>
+            <p>According to <hi>the Works which we have done in the Body,</hi> ſo ſhall we be dealt with in the World which is to come; then ſhall we receive a ſuitable Retribution, according to our Actions, whether good or evil. <hi>The Judge of all the Earth will then do Right, and be juſtified in all his Doings, and his Sayings.</hi> Indeed the ordinary Diſpenſations of Provi<g ref="char:EOLhyphen"/>dence are here ſo unaccountable, that they ſcarcely ſuffice <hi>to juſtifie the Ways of God to Man;</hi> common Bleſſings are diſpenſed indif<g ref="char:EOLhyphen"/>ferently, and <hi>his Sun ſhines upon the Juſt and the <g ref="char:V">Ʋ</g>njuſt;</hi> nay, ſometimes, and generally, the Ungodly proſper, and the Men that work Rightcouſneſs are miſerable and oppreſſed. But in that World which is to come, eternal Happineſs will be entail'd upon the Righte<g ref="char:EOLhyphen"/>ous, and everlaſting Tribulation ſhall be the Portion of the Wicked: Then ſhall God's Juſtice appear to act regularly, and either ſtop the Mouths of all Gainſayers, or open
+<pb n="22" facs="tcp:54285:13"/>them to confeſs, That <hi>verily there is a reward for the righteous. Doubtleſs there is a God that judgeth the Earth.</hi> Certainly all the Blandiſhments and Flatteries of this World can have nothing ſo delightful in them, no<g ref="char:EOLhyphen"/>thing that can ſo truly affect a rational Soul, as the Proſpect of thoſe Joys which are laid up for them which <hi>die in the Lord;</hi> and the Sound of thoſe Words ringing in their dying Ears, <hi>Come ye bleſſed of my Father, inherit the Kingdom prepared for you, from the foundation of the world.</hi> Then ſhall their Saviour enu<g ref="char:EOLhyphen"/>merate their good Actions, and ſet before their Eyes thoſe <hi>works which follow them,</hi> lay<g ref="char:EOLhyphen"/>ing them down as the Reaſons of their bleſ<g ref="char:EOLhyphen"/>ſed Entertainment. <hi>For I was an hungred, and ye gave me meat, I was thirſty, and ye gave me drink; I was naked, and ye cloathed me; I was ſick and in priſon, and ye viſited me.</hi> How pleaſing and agreeable muſt the Sur<g ref="char:EOLhyphen"/>prize then be, when they find every Inſtance of Charity and Compaſſion, which they for<g ref="char:EOLhyphen"/>merly extended to their diſtreſſed Brethren, accepted and rewarded as fully and effectu<g ref="char:EOLhyphen"/>ally, as if it had been performed to Chriſt himſelf: <hi>Verily, I ſay unto you, in as much as ye have done it to the leaſt of theſe my Brethren,
+<pb n="23" facs="tcp:54285:13"/>ye have done it unto me.</hi> Then every Action of Piety and Devotion, every Advancement in Godlineſs and Holineſs, every Chriſtian Combat and Struggling with Temptations, every ſingle Act of Faith and Reſignation, ſhall have its due Commendation and particu<g ref="char:EOLhyphen"/>lar Regard. How delightful and raviſhing will the Proſpect be, when all their Virtues ſhall be thus ranked in order, and attend them jointly to the Throne of Grace, and there preſent themſelves in their Favour and Behalf, as ſo many Offerings of a <hi>ſweet ſmell<g ref="char:EOLhyphen"/>ing ſavour!</hi> Then ſhall their Redeemer know his own <hi>by theſe their Fruits,</hi> and <hi>confeſs them before his Father which is in Heaven;</hi> and they ſhall ſee face to face <hi>the Holieſt of Holies, in whoſe preſence is fullneſs of joy.</hi> The Scene is ſo glorious, and ſo tranſcendently inviting, that it needs no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oil, no Painter's Art of Shades and darker Colours, to give theſe brighter ones more Splendor and Vivacity; and therefore it needs not to be ſet off, by comparing it with the miſerable condition of ſuch unhappy Wretches, whoſe Works are ſaid to go before them unto Judgment: Senſe cannot reach the Beauty of it, nor Imagi<g ref="char:EOLhyphen"/>nation figure any Reſemblance to it; <hi>for eye
+<pb n="24" facs="tcp:54285:14"/>hath not ſeen, nor ear heard, neither hath it en<g ref="char:EOLhyphen"/>ter'd into the heart of man to conceive the things which God has prepared for them that love him. Bleſſed therefore are the dead which die in the Lord,</hi> if we look upon Death as the Entrance into another World, <hi>For their Works do follow them.</hi>
+            </p>
+            <p>Into this happy State and Condition, I hope, our deceaſed Brother is already en<g ref="char:EOLhyphen"/>ter'd; with whom my Acquaintance was ſo intimate, during my ſhort Familiarity with him, that it qualified me to know him as well, as thoſe who had converſed with him much longer: and I cannot but do his Me<g ref="char:EOLhyphen"/>mory that Juſtice, to declare, that during the time of my Acquaintance with him, I found in him a moſt zealous Affection to the preſent Government, a great deal of Ho<g ref="char:EOLhyphen"/>neſty and Integrity, a real Love of Truth and Sincerity, an inviolable Fidelity and Strictneſs to his Word, an unalterable Friendſhip whereſoever he profeſſed it, (and however the World may be miſtaken in him) a much deeper Senſe of Religion, than many others have, who pretend to it more openly: His natural and acquired Abi<g ref="char:EOLhyphen"/>lities made him ſufficiently remarkable to all
+<pb n="25" facs="tcp:54285:14"/>that he converſed with, and cannot be un<g ref="char:EOLhyphen"/>known to any here preſent, very few being equal to him, in all the becoming Qualities and Accompliſhments, which adorn and ſet off a complete Gentleman: His very Ene<g ref="char:EOLhyphen"/>mies (if he have left any behind him) will give him this Character, at leaſt if they knew him ſo throughly as I did; and therefore it is but cold Juſtice in a Friend, who received from him, during his Life, all the Marks of a true Affection, which ſhall make his Me<g ref="char:EOLhyphen"/>mory dear to me, when he is nothing elſe but Duſt and Aſhes. His Doath ſeized him ſuddenly, but could not unprepared, ſince (to my own certain knowledge) he never took his Doſe of <hi>Opium,</hi> but he ſolemnly re<g ref="char:EOLhyphen"/>commended himſelf to God by Prayer, as if he were then about to <hi>reſign up his Soul into the Hands of his faithful Creator.</hi> Theſe Conſiderations give me good Grounds to hope, that <hi>this dead man is bleſſed;</hi> becauſe from thence I have reaſon to believe, that <hi>he died in the Lord.</hi> I ſhould enlarge farther upon his Character, but that he always in his life time diſapproved of that Cuſtom upon theſe Occaſions, and moſt eſpecially in relation to himſelf, nor ſhould I thus far
+<pb n="26" facs="tcp:54285:15"/>have infringed his Will in this particular, but that I was willing to inform the World, how much ſome People have erred in their Opi<g ref="char:EOLhyphen"/>nion of him.</p>
+            <p>Let us then, in the Name God, ſo manage our ſelves, during the Courſe of this Life, that we may be qualified for the Enjoyment of a better; that when we ſhall <hi>go hence and be no more ſeen,</hi> we may <hi>reſt from our labours,</hi> not enter upon greater Miſeries, and that <hi>our works which ſhall follow us,</hi> may recommend, and not impeach us: that ſo we may have a juſt Title to <hi>that Bleſſedneſs,</hi> which is the por<g ref="char:EOLhyphen"/>tion of thoſe <hi>dead which die in the Lord. To which, God, of his infinite Mercy, bring us all through the Merits and Mediation of our Bleſ<g ref="char:EOLhyphen"/>ſed Saviour: to whom with the Father, and the Holy Spirit, be aſcribed all Honour, Power, Might, Majeſty, and Dominion, henceforth, and for evermore.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:54285:15"/>
+            <head>Books newly Printed for <hi>James Knapton,</hi> at the <hi>Crown</hi> in <hi>St. Paul's</hi> Church-Yard.</head>
+            <p>THE Deſign of the Book of <hi>Eccleſia<g ref="char:EOLhyphen"/>ſtes,</hi> or the Unreaſonableneſs of Mens Reſtleſs Contentions for the preſent Enjoy<g ref="char:EOLhyphen"/>ments. Whereunto is added a Paraphraſe with ſome Notes on part of the Book of <hi>Eccleſiaſtes.</hi> In <hi>Octavo.</hi>
+            </p>
+            <p>Directions to a Holy Life: In Three Parts. I. The Benefit of being truly Religious II. The Neceſſity of Good Works. III. The Exerciſe of the Love of God. By a Divine of the Church of <hi>England.</hi> In <hi>Octavo.</hi>
+            </p>
+            <p>A Guide to Eternity: Extracted out of the Writings of the Holy Fathers, and An<g ref="char:EOLhyphen"/>cient Philoſophers. Written originally in <hi>Latin</hi> by <hi>John Bona,</hi> and now Done into
+<pb facs="tcp:54285:16"/>
+               <hi>Engliſh</hi> by Sir <hi>Roger L' Eſtrange.</hi> The Third Edition. In Twelves.</p>
+            <p>An Earneſt Invitation to the Sacrament of the Lord's Supper. By <hi>Joſeph Glanvill,</hi> late Rector of <hi>Bath,</hi> and Chaplain in Ordinary to his Majeſty.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
